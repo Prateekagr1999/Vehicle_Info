@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vehicle Info (No Ads)</string>
+    <string name="search_vehicle">Search Vehicle</string>
+    <string name="VehicleNoHint">UP50AQ1234</string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="credit"><![CDATA[Designed & Developed by PRAKSHAY Technologies]]></string>
+    <string name="search">Search</string>
+    <string name="details">Details</string>
+    <string name="download_pdf">Download PDF</string>
+    <string name="infovehicle">infoVehicle</string>
+    <string name="all_about_vehicle_information">All about Vehicle Information.</string>
+    <string name="logo">Logo</string>
+</resources>
